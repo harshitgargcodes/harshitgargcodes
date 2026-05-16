@@ -41,7 +41,7 @@ It includes:
 - Interactive lesson dashboard demo
 - Search and filter functionality using JavaScript
 
-Live Demo: https://harshitgargcodes.github.io/personal-portfolio-website/  
+Live Demo:  https://harshitgargcodes.github.io/personal-portfolio-website/  
 Repository: https://github.com/harshitgargcodes/personal-portfolio-website
 
 ## Contact
