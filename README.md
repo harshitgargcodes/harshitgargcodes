@@ -30,5 +30,5 @@ I'm open to small freelance collaborations, especially simple websites and begin
 
 ## Contact
 
-LinkedIn: linkedin.com/in/harshit-garg-917579405 
-Email: harshitgargweb@gmail.com
+- LinkedIn: [Harshit Garg](https://www.linkedin.com/in/harshit-garg-917579405/)
+- Email: harshitgargweb@gmail.com
