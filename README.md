@@ -28,7 +28,24 @@ I'm building real-world beginner projects and improving my skills in frontend, b
 
 I'm open to small freelance collaborations, especially simple websites and beginner-friendly web apps.
 
+- ## Featured Project
+
+### Personal Portfolio Website
+
+A simple portfolio website built with HTML, CSS, and JavaScript.
+
+It includes:
+- Portfolio sections
+- Services section
+- Contact section
+- Interactive lesson dashboard demo
+- Search and filter functionality using JavaScript
+
+Live Demo: https://harshitgargcodes.github.io/personal-portfolio-website/  
+Repository: https://github.com/harshitgargcodes/personal-portfolio-website
+
 ## Contact
 
 - LinkedIn: [Harshit Garg](https://www.linkedin.com/in/harshit-garg-917579405/)
 - Email: harshitgargweb@gmail.com
+
