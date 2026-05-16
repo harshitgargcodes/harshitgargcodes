@@ -42,7 +42,7 @@ It includes:
 - Search and filter functionality using JavaScript
 
 Live Demo:  https://harshitgargcodes.github.io/personal-portfolio-website/  
-Repository: https://github.com/harshitgargcodes/personal-portfolio-website
+Repository: [https://github.com/harshitgargcodes/personal-portfolio-website](https://github.com/harshitgargcodes/personal-portfolio-website)
 
 ## Contact
 
